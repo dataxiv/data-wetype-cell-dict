@@ -1,0 +1,92 @@
+{
+  "1.0.0": {
+    "name": "cell_dict.ssrc.zh",
+    "md5": "d0eb266fa7e957ef6be6a638be788dba",
+    "type": 7,
+    "version": 271,
+    "timestamp": 1671092706,
+    "is_cell": true,
+    "in_ime_data": true,
+    "support_update": true
+  },
+  "1.1.0": {
+    "name": "cell_dict.ssrc.zh",
+    "md5": "26b9559708de855c41d8171657e38ab1",
+    "type": 7,
+    "version": 401,
+    "timestamp": 1683769528,
+    "is_cell": true,
+    "in_ime_data": true,
+    "support_update": true
+  },
+  "1.2.0": {
+    "name": "cell_dict.ssrc.zh",
+    "md5": "325c1a605a1863673f0dbaf6d1f296ee",
+    "type": 7,
+    "version": 485,
+    "timestamp": 1698915323,
+    "is_cell": true,
+    "in_ime_data": true,
+    "support_update": true,
+    "dict_type": 1
+  },
+  "1.3.0": {
+    "name": "cell_dict.ssrc.zh",
+    "md5": "247e959072e42f713698c29dd2f7f313",
+    "type": 7,
+    "version": 643,
+    "timestamp": 1716779777,
+    "is_cell": true,
+    "in_ime_data": true,
+    "support_update": true,
+    "dict_type": 1
+  },
+  "2.0.0": {
+    "name": "cell_dict.ssrc.zh",
+    "md5": "ada3449568aea7ecad7c3864d80a0442",
+    "type": 7,
+    "uniqueID": "cell_dict.ssrc",
+    "version": 971,
+    "timestamp": 1735887223,
+    "is_cell": true,
+    "in_ime_data": true,
+    "support_update": true,
+    "dict_type": 1
+  },
+  "2.1.0": {
+    "name": "cell_dict.ssrc.zh",
+    "md5": "76b752582aef4aef53980e31ed5b4158",
+    "type": 7,
+    "uniqueID": "cell_dict.ssrc",
+    "version": 991,
+    "timestamp": 1741315176,
+    "is_cell": true,
+    "in_ime_data": true,
+    "support_update": true,
+    "dict_type": 1
+  },
+  "3.0.0": {
+    "name": "cell_dict.ssrc.zh",
+    "md5": "27fccc9e600fa158995bee17ceb11ae9",
+    "type": 7,
+    "uniqueID": "cell_dict.ssrc",
+    "version": 1149,
+    "timestamp": 1761279494,
+    "is_cell": true,
+    "in_ime_data": true,
+    "support_update": true,
+    "dict_type": 1
+  },
+  "3.1.0": {
+    "name": "cell_dict.ssrc.zh",
+    "md5": "6555417414533a29960c3a4a01ad1303",
+    "type": 7,
+    "uniqueID": "cell_dict.ssrc",
+    "version": 1168,
+    "timestamp": 1767608072,
+    "is_cell": true,
+    "in_ime_data": true,
+    "support_update": true,
+    "dict_type": 1
+  }
+}
